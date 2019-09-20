@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "products": [
     { "id": 1, "title": "IPhone 11","description": "medium screen size" },
     { "id": 2, "title": "IPhone 11 Pro","description": "small screen size" },
     { "id": 3, "title": "IPhone 11 Pro Max","description": "large screen size" }
